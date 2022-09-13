@@ -34,7 +34,7 @@
 ## 已知问题
 
 - 没有采用原版的帧率限制, 手感上面会有点问题~ 欢迎有条件的小伙伴pr一下.
-- line的实现部分是引用的[Unity-UI-Extensions/com.unity.uiextensions (github.com)](https://github.com/Unity-UI-Extensions/com.unity.uiextensions), 略重了一点.
+- line的实现部分是引用的[Unity-UI-Extensions/com.unity.uiextensions](https://github.com/Unity-UI-Extensions/com.unity.uiextensions), 略重了一点.
 - 弹簧链接部分和图片在一定角度上会有点问题~
 
 ## License
